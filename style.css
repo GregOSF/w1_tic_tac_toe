@@ -2,7 +2,18 @@
   margin-top: 10px;
 }
 
+#title {
+	font-size: 50px;
+	font-family: "Impact";
+}
+
+
 .box {
   border: 1px solid black;
   height: 150px;
+}
+
+.resetbtn {
+	padding: 25px;
+	font-family: "Impact";
 }
